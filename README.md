@@ -1,4 +1,4 @@
-# Sistema de Prediccion de Abandono de Clientes - TelecomX
+# Sistema de Prediccion de Abandono de Clientes 
 
 ## Descripcion del Proyecto
 Este proyecto desarrolla un pipeline de Machine Learning para predecir la tasa de cancelacion (Churn) en una empresa de telecomunicaciones. El objetivo principal es identificar patrones de comportamiento en los usuarios para permitir la ejecucion de estrategias de retencion proactivas basadas en datos.
